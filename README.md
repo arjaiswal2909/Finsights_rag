@@ -138,12 +138,12 @@ The use of qwen2.5:3b over other models such as OpenAI is justified due to its s
 ## Screenshots
 
 ### 1. Home Interface
-![Main Interface](screenshots\home.png)
+![Main Interface](screenshots/home.png)
 
 ### 2. Response Generation Example
-![Response Generation (1/3)](screenshots\rag_1.png)
-![Response Generation (2/3)](screenshots\rag_2.png)
-![Response Generation (3/3)](screenshots\rag_3.png)
+![Response Generation (1/3)](screenshots/rag_1.png)
+![Response Generation (2/3)](screenshots/rag_2.png)
+![Response Generation (3/3)](screenshots/rag_3.png)
 ---
 
 
