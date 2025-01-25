@@ -1,0 +1,14 @@
+unstructured[all-docs]
+unstructured-client
+watermark
+python-dotenv
+SQLAlchemy
+pydantic
+langchain
+langchain-community
+langchain_core
+langchain_ollama
+chromadb
+pandas
+streamlit
+fastapi
